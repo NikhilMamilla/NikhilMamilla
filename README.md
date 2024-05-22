@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilMamilla
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning python and completed #C language
+- 🌱 I had completed my C and PYTHON programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "For inquiries or collaboration opportunities, feel free to contact me via email at 23211a05m7@bvrit.ac.in or through direct messages on GitHub."
 - 😄 Pronouns: He/Him
